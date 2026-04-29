@@ -43,10 +43,5 @@ Key benefits:
 * Install **Headunit Reloaded (HUR)** for Wireless Android Auto functionality.
 * Use **Aurora Store** for anonymous and lightweight app management.
 
----
-
-## 📸 Gallery
-*(Add your project photos here to show off the build!)*
-
 ## ⚖️ License
 This project is for educational purposes. All software belongs to their respective owners.
