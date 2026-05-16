@@ -43,5 +43,10 @@ Key benefits:
 * Install **Headunit Reloaded (HUR)** for Wireless Android Auto functionality.
 * Use **Aurora Store** for anonymous and lightweight app management.
 
+# Additional Information
+In order to support Android Auto or CarPlay, we need to enable screen mirroring from the phone. For this purpose, we will need two operating systems, because the specific board we currently have will not be sufficient on its own.
+To achieve this, we will use PINN, which is a multi-boot system. The goal is to add Crankshaft to the current operating system and allow us, when the Raspberry Pi starts, to choose which of the two systems to use.
+To support Android Auto, we will also need an additional external module.
+
 ## ⚖️ License
 This project is for educational purposes. All software belongs to their respective owners.
